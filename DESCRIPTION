@@ -1,9 +1,12 @@
 Package: rLungVolume
-Title: What the Package Does (One Line, Title Case)
+Title: Tools for Lung Volume Analysis
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Utilities for calculating and summarizing lung volume metrics
+    from pulmonary function test data. Includes helpers for deriving common
+    measures, organizing results for analysis, and preparing values for
+    visualization or reporting workflows.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
