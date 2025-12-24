@@ -2,7 +2,7 @@ Package: rLungVolume
 Title: Tools for Lung Volume Analysis
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("John", "Barsotti", , "ebarsot11@gmail.com", role = c("aut", "cre"))
 Description: Utilities for calculating and summarizing lung volume metrics
     from pulmonary function test data. Includes helpers for deriving common
     measures, organizing results for analysis, and preparing values for
