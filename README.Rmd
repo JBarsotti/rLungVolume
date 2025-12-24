@@ -1,14 +1,13 @@
+---
+output: github_document
+---
 
 # rLungVolume
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
-Utilities for calculating and summarizing lung volume metrics from
-pulmonary function test data. Use this package to derive common
-measures, organize results for analysis, and prepare values for
-visualization or reporting workflows.
+Utilities for calculating and summarizing lung volume metrics from pulmonary function test data. Use this package to derive common measures, organize results for analysis, and prepare values for visualization or reporting workflows.
 
 ## Installation
 
